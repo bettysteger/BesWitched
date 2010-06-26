@@ -1,0 +1,14 @@
+== BesWitched
+
+BesWitched is a Android Game written in Java with Android SDK.
+It's similary to the old Pokemon Tetris Attack Game: http://www.youtube.com/watch?v=dYgOrt0ub6Q
+
+== v1 Version
+
+This is a version 1 of BesWitched and is still under development.
+
+== Maintainers
+
+* Bettina Steger (http://github.com/lpsBetty)
+* Steven Stojanovic
+* Ivo Havranek
