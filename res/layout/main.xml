@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@+id/main_view"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@drawable/background" 
+>
+    <TextView
+        android:id="@+id/point_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="top|left"
+        android:text="Start switching!"
+        android:textSize="30sp"
+        android:textColor="#ffffffff" />
+     <TextView
+        android:id="@+id/score_view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="top|right"
+        android:text="Score: 0"
+        android:textSize="30sp"
+        android:textColor="#ffffffff" />	
+
+</FrameLayout>
